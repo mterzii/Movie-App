@@ -8,7 +8,7 @@ A web application to explore popular movies and TV shows, built with vanilla Jav
 - Responsive UI
 - Powered by the TMDB API
 
-## Screenshots
+
 
 ## Screenshots
 
